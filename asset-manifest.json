@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Bingo-do-melque/static/css/main.40f6102e.css",
+    "main.js": "/Bingo-do-melque/static/js/main.c3d6964a.js",
+    "static/js/592.8591b0a9.chunk.js": "/Bingo-do-melque/static/js/592.8591b0a9.chunk.js",
+    "static/media/Logomelque.png": "/Bingo-do-melque/static/media/Logomelque.abd08a56ca91c1544735.png",
+    "index.html": "/Bingo-do-melque/index.html",
+    "main.40f6102e.css.map": "/Bingo-do-melque/static/css/main.40f6102e.css.map",
+    "main.c3d6964a.js.map": "/Bingo-do-melque/static/js/main.c3d6964a.js.map",
+    "592.8591b0a9.chunk.js.map": "/Bingo-do-melque/static/js/592.8591b0a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40f6102e.css",
+    "static/js/main.c3d6964a.js"
+  ]
+}
